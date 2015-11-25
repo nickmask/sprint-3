@@ -14,11 +14,15 @@ It pretty hard to understand exactly what you are getting yourself into, how muc
 
 Easy to understand information
 
-One of the big issues for people who are thinking of getting solar panels is the shear complication and amount of information out their on products, features, what is best etc. 
+One of the big issues for people who are thinking of getting solar panels is the shear complication and amount of information out their on products, features, what is best etc. Our site will put that in easy to understand language, but also provide the data to back up the claims.
 
 Full Service
 
 The idea of this site is to be a full service solar provider. Everything from consultation to installation, making it easy for the customer to say yes!
+
+Personalised and accurate
+
+This is where our site is different from others. We will usalise sunlight data, their address and satalite images to calculate an accurate idea of what solar will do for their bills and enviromental impact. 
 
 Success Metric
 
