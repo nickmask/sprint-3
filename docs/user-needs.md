@@ -1,3 +1,5 @@
+User Needs
+
 Potential Audiences
 
 1. The Wealth "Remuera" types that own homes - They have the disposible income readily avalaible.
@@ -12,4 +14,17 @@ Potential Audiences
   We will put an emphisis on the quality of the products and installation knowing that these people value their houses
   We will provide ample information in a transparent format for the customers to read and understand
   We will be full service 
+
+Branding
+
+Brand Name
+  Company uses easily recognised from the brand name
+  Use a name that implies what the website caters for ie including solar.
+
+Mission
+  High quality service and installation
+  Simplifing solar
+  Easy to use website and calculators
+  Help people reduce their enviromental impact and save money
+
 
